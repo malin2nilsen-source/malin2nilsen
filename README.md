@@ -18,8 +18,8 @@ Back-end developer in training. I enjoy building solutions that actually work fo
 - 🔍 Open to junior back-end roles
 
 ## 📫 Contact
-- LinkedIn: [[malinnilsen]](https://www.linkedin.com/in/malinnilsen/)
-- Email: [[malin2nilsen@gmail.com]]
+- LinkedIn: https://www.linkedin.com/in/malinnilsen/
+- Email: malin2nilsen@gmail.com
 
 ---
 *This profile is a work in progress — more projects coming soon!*
