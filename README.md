@@ -24,6 +24,12 @@ Back-end developer in training. I enjoy building solutions that actually work fo
 - 📚 Building up my portfolio
 - 🔍 Open to junior back-end roles
 
+## 💼 Projects
+- 🐾 AnimalApp
+- 📚 LibraryApp
+- 📝 NoteApp
+- ✅ TodoApp
+
 ## 📫 Contact
 - LinkedIn: [/in/malinnilsen/](https://www.linkedin.com/in/malinnilsen/)
 - Email: malin2nilsen@gmail.com
