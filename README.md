@@ -2,7 +2,7 @@
 
 Back-end developer in training. I enjoy building solutions that actually work for people.
 
-## 🧭 About me
+## 😎 About me
 - 🎓 Vocational degree (fagskole) in Back-End Development – Noroff
 - 🇳🇴 Norwegian citizen, based in Norway
 
@@ -25,7 +25,7 @@ Back-end developer in training. I enjoy building solutions that actually work fo
 - 🔍 Open to junior back-end roles
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/malinnilsen/](https://www.linkedin.com/in/malinnilsen/)
+- LinkedIn: [/in/malinnilsen/](https://www.linkedin.com/in/malinnilsen/)
 - Email: malin2nilsen@gmail.com
 
 ---
