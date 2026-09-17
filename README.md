@@ -19,7 +19,7 @@ Back-end developer in training. I enjoy building solutions that actually work fo
 
 ## 📫 Contact
 - LinkedIn: [[link]](https://www.linkedin.com/in/malinnilsen/)
-- Email: [your email]
+- Email: [your email](malin2nilsen@gmail.com)
 
 ---
 *This profile is a work in progress — more projects coming soon!*
